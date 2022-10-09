@@ -1,0 +1,15 @@
+C:\Users\spira\Desktop\Домашки\8dz\task 4\bin\Debug\net6.0\task 4.exe
+C:\Users\spira\Desktop\Домашки\8dz\task 4\bin\Debug\net6.0\task 4.deps.json
+C:\Users\spira\Desktop\Домашки\8dz\task 4\bin\Debug\net6.0\task 4.runtimeconfig.json
+C:\Users\spira\Desktop\Домашки\8dz\task 4\bin\Debug\net6.0\task 4.dll
+C:\Users\spira\Desktop\Домашки\8dz\task 4\bin\Debug\net6.0\task 4.pdb
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\task 4.csproj.AssemblyReference.cache
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\task 4.AssemblyInfoInputs.cache
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\task 4.AssemblyInfo.cs
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\task 4.csproj.CoreCompileInputs.cache
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\task 4.dll
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\refint\task 4.dll
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\task 4.pdb
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\task 4.genruntimeconfig.cache
+C:\Users\spira\Desktop\Домашки\8dz\task 4\obj\Debug\net6.0\ref\task 4.dll
